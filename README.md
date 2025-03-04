@@ -160,18 +160,16 @@ Special thanks to:
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
+        <b>Ridhdhi Ramanuj</b>
       </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/sahilatahar">
+            <a href="https://github.com/Ridhdhi-Ramanuj/Code-Sync-A-Realtime-Code-Editor-MERN">
             <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <br/>
-            <a href="https://linkedin.com/in/sahilatahar">
+            <a href="https://www.linkedin.com/in/ridhdhi-ramanuj-02b501261/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
         </td>
